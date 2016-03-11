@@ -1,5 +1,7 @@
 # master (unreleased)
 
+* Remove deprecated code. (panthomakos)
+
 # 0.99.1
 
 * Updated with `tzdata-2016b-1`. (panthomakos)
